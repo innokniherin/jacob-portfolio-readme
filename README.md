@@ -9,16 +9,15 @@
 
 </div>
 
-<!-- 🎵 SPOTIFY NOW PLAYING (put it here) -->
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6aPyqaE53xagYyLIYZjB1e?utm_source=generator&si=be131bc4364c4195" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<br/>
+<!-- 🎵 SPOTIFY (GitHub removes <iframe> and full HTML pages, so this uses clickable buttons) -->
+<div align="center">
 
-<!-- ▶ PLAY BUTTONS -->
-<a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play my playlist on Spotify" />
+<a href="https://open.spotify.com/embed/album/6aPyqaE53xagYyLIYZjB1e" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Now%20Playing%20%E2%80%94%20Click%20to%20Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play my album on Spotify" />
 </a>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20My%20Spotify%20Profile-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="My Spotify profile" />
+<br/>
+<a href="https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Open%20in%20Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Open album in Spotify" />
 </a>
 
 </div>
