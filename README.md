@@ -9,6 +9,15 @@
 
 </div>
 
+<!-- 🎵 SPOTIFY NOW PLAYING (put it here) -->
+<div align="center">
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
+  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=true" alt="Jacob's Spotify: currently playing / recently played" width="480" />
+</a>
+
+</div>
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jacob John A. Ferrer Jr.</h1>
 
 
@@ -94,7 +103,7 @@ style="margin: 4px;" />
 <a href="https://www.linkedin.com/in/jacob-john-a-ferrer-jr-100354346" target="_blank">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
 
-<a href="jacobferrerjr@gmail.com" target="_blank">
+<a href="mailto:jacobferrerjr@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
 
 <a href="https://www.facebook.com/junojohn17/" target="_blank">
