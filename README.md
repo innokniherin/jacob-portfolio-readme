@@ -10,14 +10,7 @@
 </div>
 
 <!-- 🎵 SPOTIFY NOW PLAYING (put it here) -->
-<div align="center">
-
-<!-- Replace YOUR_IMAGE_URL with your image (e.g. ./spotify-card.png if uploaded to this repo) -->
-<!-- Replace YOUR_PLAYLIST_ID with the ID from open.spotify.com/playlist/<ID> -->
-<a href="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" target="_blank">
-  <img src="YOUR_IMAGE_URL" alt="Play my Spotify playlist" width="480" />
-</a>
-
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6aPyqaE53xagYyLIYZjB1e?utm_source=generator&si=be131bc4364c4195" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br/>
 
 <!-- ▶ PLAY BUTTONS -->
