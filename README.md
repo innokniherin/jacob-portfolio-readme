@@ -9,8 +9,6 @@
 
 </div>
 
-<p align="center"><code>~/links</code> &nbsp; <a href="https://github.com/innokniherin">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jacob-john-a-ferrer-jr-100354346">LinkedIn</a></p>
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jacob John A. Ferrer Jr.</h1>
 
 
