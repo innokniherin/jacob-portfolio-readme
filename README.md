@@ -100,7 +100,7 @@ style="margin: 4px;" />
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
 
 <a href="https://www.facebook.com/junojohn17/" target="_blank">
-<img src="https://www.flaticon.com/free-icon/facebook_5968764?term=logo&page=1&position=5&origin=tag&related_id=5968764" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> 
+<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" width="40" height="40" style="margin: 0 8px;"/></a> 
 
 </p>
 
