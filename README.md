@@ -16,6 +16,16 @@
   <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=true" alt="Jacob's Spotify: currently playing / recently played" width="480" />
 </a>
 
+<br/>
+
+<!-- ▶ PLAY BUTTONS -->
+<a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play my playlist on Spotify" />
+</a>
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20My%20Spotify%20Profile-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="My Spotify profile" />
+</a>
+
 </div>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jacob John A. Ferrer Jr.</h1>
