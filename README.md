@@ -12,8 +12,10 @@
 <!-- 🎵 SPOTIFY NOW PLAYING (put it here) -->
 <div align="center">
 
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=true" alt="Jacob's Spotify: currently playing / recently played" width="480" />
+<!-- Replace YOUR_IMAGE_URL with your image (e.g. ./spotify-card.png if uploaded to this repo) -->
+<!-- Replace YOUR_PLAYLIST_ID with the ID from open.spotify.com/playlist/<ID> -->
+<a href="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" target="_blank">
+  <img src="YOUR_IMAGE_URL" alt="Play my Spotify playlist" width="480" />
 </a>
 
 <br/>
