@@ -17,7 +17,20 @@
 </a>
 <br/>
 <a href="https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20Open%20in%20Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Open album in Spotify" />
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Open%20in%20Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Open album 1 in Spotify" />
+</a>
+
+<br/><br/>
+<sub>━━━━━━━━━━ 🎵 ━━━━━━━━━━</sub>
+<br/><br/>
+
+<!-- 🎵 ALBUM 2 -->
+<a href="https://open.spotify.com/embed/album/46K4raQPIGem3N031upNj9" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Album%202%20%E2%80%94%20Click%20to%20Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play album 2 on Spotify" />
+</a>
+<br/>
+<a href="https://open.spotify.com/album/46K4raQPIGem3N031upNj9" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Open%20in%20Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Open album 2 in Spotify" />
 </a>
 
 </div>
